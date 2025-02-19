@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommitAndConquer", "CommitAndConquer\CommitAndConquer.csproj", "{B8BF28B4-F5B8-416F-8AF3-5EB8CCFA7DF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommitAndConquerTests", "CommitAndConquerTests\CommitAndConquerTests.csproj", "{73530242-0DBC-4CA0-8415-009DA29BDF25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{B8BF28B4-F5B8-416F-8AF3-5EB8CCFA7DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8BF28B4-F5B8-416F-8AF3-5EB8CCFA7DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8BF28B4-F5B8-416F-8AF3-5EB8CCFA7DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73530242-0DBC-4CA0-8415-009DA29BDF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73530242-0DBC-4CA0-8415-009DA29BDF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73530242-0DBC-4CA0-8415-009DA29BDF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73530242-0DBC-4CA0-8415-009DA29BDF25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
