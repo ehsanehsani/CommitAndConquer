@@ -36,5 +36,11 @@ namespace CommitAndConquer
 
             return [0,0];
         }
+
+        public static int[] abc(int[] numbers, int target)
+        {
+
+            return [0, 0];
+        }
     }
 }
